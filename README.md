@@ -9,5 +9,5 @@ View the data exploration in python [Here](https://github.com/JachimmaChristian/
 
 View the cleaned and merged tables in Excel [Here](https://github.com/JachimmaChristian/Forage-Accenture-Internship/blob/main/Reactions.xlsx)
 
-You can also view the slide presentation in PDF [Here]()
+You can also view the slide presentation in PDF [Here](https://github.com/JachimmaChristian/Forage-Accenture-Internship/blob/main/Accenture%20Data%20Analytics%20Task.pdf)
 
